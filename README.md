@@ -1,5 +1,6 @@
-# nodejstodo
-Simple todo. More to come. :)
+# to-do-list-node-js
 
-Do npm install before running.
-localhost:8080
+### Simple todo. More to come. :)
+
+##### Do npm install before running.
+##### localhost:8080
